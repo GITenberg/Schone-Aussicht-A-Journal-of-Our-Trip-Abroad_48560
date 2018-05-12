@@ -1,10 +1,16 @@
 _repo: Schone-Aussicht-A-Journal-of-Our-Trip-Abroad_48560
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48560-h/images/cover.jpg
 creator:
   author:
     agent_name: Spilker, Louise
     gutenberg_agent_id: '44856'
     url: http://www.gutenberg.org/2009/agents/44856
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48560#Schone-Aussicht-A-Journal-of-Our-Trip-Abroad
 gutenberg_issued: '2015-03-22'
 gutenberg_type: Text
 identifiers:
